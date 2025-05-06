@@ -1,0 +1,45 @@
+body {
+    background-color: #e6f0ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #003366;
+    margin: 20px;
+}
+
+#output {
+    white-space: pre;
+    font-family: monospace;
+    background-color: #cce0ff;
+    padding: 15px;
+    border: 2px solid #003366;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 51, 102, 0.3);
+}
+
+input, button {
+    padding: 8px 12px;
+    margin: 5px 4px;
+    font-size: 16px;
+    }
+
+button {
+    background-color: #3399ff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #007acc;
+}
+#contacts {
+    margin-top: 15px;
+    font-weight: bold;
+    background-color: #cce0ff;
+    padding: 15px;
+    border: 2px solid #003366;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0, 51, 102, 0.3);
+    display: inline-block;
+    }
